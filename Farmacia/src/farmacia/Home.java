@@ -7,7 +7,7 @@ package farmacia;
 
 /**
  *
- * @author Sergio
+ * @author Osvaldo
  */
 public class Home extends javax.swing.JFrame {
 
